@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=softdevbx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Senior iOS & Android Developer
+Senior iOS & Android Developer (Swift, Kotlin, Flutter)
 
 
 # 💻 Tech Stack:
